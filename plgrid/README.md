@@ -1,7 +1,8 @@
+Scripts for running ABC on zeus.
+
 
 To test if scripts and programs are working make 3 qsub bash scripts, each executing 1 job (for 3 existing folders)
-and test with l-test
-
+and test with l-test.
 
 
 ### MODEL PREPARATION
